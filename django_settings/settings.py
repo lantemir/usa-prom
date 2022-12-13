@@ -38,7 +38,8 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 
 ALLOWED_HOSTS = ['*']
 
-#обновили гит
+#обновили гит 
+#обновили гит2
 
 CORS_ALLOWED_ORIGINS = [
    
